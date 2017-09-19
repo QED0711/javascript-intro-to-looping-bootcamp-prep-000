@@ -17,6 +17,6 @@ function doWhile(array){
     array.length > 0;
   }
   do{
-
+    
   } while (maybeTrue())
 }
