@@ -17,6 +17,6 @@ function doWhile(array){
     return Math.random() >= 0.5
   }
   do{
-    
-  } while (maybeTrue())
+
+  } while (maybeTrue() && array.length > 0)
 }
