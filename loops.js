@@ -13,8 +13,8 @@ function whileLoop(n){
 }
 
 function doWhile(array){
-  function maybeTrue(){
-    array.length > 0;
+  function maybeTrue() {
+    return Math.random() >= 0.5
   }
   do{
     
