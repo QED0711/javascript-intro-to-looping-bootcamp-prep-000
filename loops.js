@@ -13,5 +13,7 @@ function whileLoop(n){
 }
 
 function doWhile(array){
-  
+  function maybeTrue(){
+    
+  }
 }
